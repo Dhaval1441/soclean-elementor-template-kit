@@ -5,10 +5,10 @@ Envato **Elementor Template Kit** (not a full WordPress core/database dump). Pag
 ## Staging / client review
 
 - **Live kit demo (full Elementor site):** https://demo.deverust.com/soclean/
-- **Kit screenshots in this repo:** GitHub Pages (enabled after first push)
-- **Disposable WordPress with required plugins:** open the Playground blueprint after this repo is public:
+- **Kit screenshots (this repo):** https://dhaval1441.github.io/soclean-elementor-template-kit/
+- **Disposable WordPress with required plugins:**
 
-  `https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Dhaval1441/soclean-elementor-template-kit/main/blueprint.json`
+  https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Dhaval1441/soclean-elementor-template-kit/main/blueprint.json
 
 This package has **no WordPress database, `wp-config.php`, or credentials**. Do not commit those files.
 
