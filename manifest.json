@@ -1,0 +1,1719 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Soclean - Cleaning Service Training and Recruitment Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.deverust.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lets Connect Form",
+            "screenshot": "screenshots\/lets-connect-form.jpg",
+            "source": "templates\/lets-connect-form.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/lets-connect-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Inspire Others Form",
+            "screenshot": "screenshots\/inspire-others-form.jpg",
+            "source": "templates\/inspire-others-form.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/inspire-others-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error",
+            "screenshot": "screenshots\/error.jpg",
+            "source": "templates\/error.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Blog",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partnership",
+            "screenshot": "screenshots\/partnership.jpg",
+            "source": "templates\/partnership.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/partnership\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Awards",
+            "screenshot": "screenshots\/awards.jpg",
+            "source": "templates\/awards.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/awards\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Success Stories",
+            "screenshot": "screenshots\/success-stories.jpg",
+            "source": "templates\/success-stories.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/success-stories\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Program Detail",
+            "screenshot": "screenshots\/program-detail.jpg",
+            "source": "templates\/program-detail.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/program-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Programs List",
+            "screenshot": "screenshots\/programs-list.jpg",
+            "source": "templates\/programs-list.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/programs-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscription Form",
+            "screenshot": "screenshots\/subscription-form.jpg",
+            "source": "templates\/subscription-form.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/subscription-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Design Guideline",
+            "screenshot": "screenshots\/design-guideline.jpg",
+            "source": "templates\/design-guideline.json",
+            "preview_url": "https:\/\/demo.deverust.com\/soclean\/template-kit\/design-guideline\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.7.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Gum Addon for Elementor",
+            "version": "1.3.14",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.32.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "IMG-6ZP8H4K.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-6ZP8H4K.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131137,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZP8H4K"
+        },
+        {
+            "filename": "icon29-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon29-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 19290,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "icon009-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon009-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20655,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "icon012-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon012-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21738,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "icon20-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon20-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                }
+            ],
+            "filesize": 21770,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "IMG-XXAF8SP.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-XXAF8SP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148471,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXAF8SP"
+        },
+        {
+            "filename": "IMG-NE6PM2A.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-NE6PM2A-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 60656,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NE6PM2A"
+        },
+        {
+            "filename": "IMG-BE7MCUH.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-BE7MCUH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85317,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BE7MCUH"
+        },
+        {
+            "filename": "woman-doing-cleaning-work-in-office-5CNCSDW.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/12\/woman-doing-cleaning-work-in-office-5CNCSDW-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 202116,
+            "dimensions": [
+                1418,
+                946
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5CNCSDW"
+        },
+        {
+            "filename": "Soclean-01.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-01.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9892,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-02.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-02.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2165,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-03.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-03.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11429,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-04.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-04.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13075,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-05.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-05.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10007,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-06.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-06.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10683,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-07.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-07.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10065,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Soclean-08.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-08.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12219,
+            "dimensions": [
+                560,
+                284
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG01-RGTQ75J.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG01-RGTQ75J-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 206639,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RGTQ75J"
+        },
+        {
+            "filename": "IMG-W5XBFG9.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-W5XBFG9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67751,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-W5XBFG9"
+        },
+        {
+            "filename": "IMG-5L6H9AN.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-5L6H9AN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67017,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5L6H9AN"
+        },
+        {
+            "filename": "IMG-A4333GD.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-A4333GD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 52699,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-A4333GD"
+        },
+        {
+            "filename": "woman-portrait-indoors-GJ96G46.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/woman-portrait-indoors-GJ96G46.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                }
+            ],
+            "filesize": 101831,
+            "dimensions": [
+                528,
+                528
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GJ96G46"
+        },
+        {
+            "filename": "IMG-3Z3Z5K7.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-3Z3Z5K7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 64121,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3Z3Z5K7"
+        },
+        {
+            "filename": "young-handsome-man-standing-with-crossed-arms-TD2S3E7.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/young-handsome-man-standing-with-crossed-arms-TD2S3E7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 51521,
+            "dimensions": [
+                642,
+                642
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TD2S3E7"
+        },
+        {
+            "filename": "IMG-ZDGNKJB.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/12\/IMG-ZDGNKJB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 66897,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZDGNKJB"
+        },
+        {
+            "filename": "portrait-of-cheerful-handsome-man-in-denim-shirt-s-ZXG9M4P.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/portrait-of-cheerful-handsome-man-in-denim-shirt-s-ZXG9M4P-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 137674,
+            "dimensions": [
+                1219,
+                1219
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZXG9M4P"
+        },
+        {
+            "filename": "woman-D779WWN.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/woman-D779WWN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 123269,
+            "dimensions": [
+                662,
+                662
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-D779WWN"
+        },
+        {
+            "filename": "icon011-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon011-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20696,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "icon008-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon008-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24293,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "african-man-in-apron-and-gloves-holding-vacuum-cle-KKLUQLA.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/african-man-in-apron-and-gloves-holding-vacuum-cle-KKLUQLA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                }
+            ],
+            "filesize": 195650,
+            "dimensions": [
+                1350,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KKLUQLA"
+        },
+        {
+            "filename": "IMG-D3AFYG3.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-D3AFYG3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106424,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-D3AFYG3"
+        },
+        {
+            "filename": "IMG-SQQW9LP.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-SQQW9LP-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/awards.json",
+                    "name": "Awards"
+                },
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89240,
+            "dimensions": [
+                1800,
+                1202
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SQQW9LP"
+        },
+        {
+            "filename": "IMG-KCEDG3H.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-KCEDG3H-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 104020,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KCEDG3H"
+        },
+        {
+            "filename": "icon23-852ZB8R.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/icon23-852ZB8R.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 20403,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-852ZB8R"
+        },
+        {
+            "filename": "IMG-CRNPAM4.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-CRNPAM4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/design-guideline.json",
+                    "name": "Design Guideline"
+                }
+            ],
+            "filesize": 155337,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CRNPAM4"
+        },
+        {
+            "filename": "IMG-NAZ7VWX.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-NAZ7VWX-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 100926,
+            "dimensions": [
+                1100,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NAZ7VWX"
+        },
+        {
+            "filename": "IMG-HS64QBQ.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-HS64QBQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 95553,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HS64QBQ"
+        },
+        {
+            "filename": "IMG-FDGXA35.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-FDGXA35-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/success-stories.json",
+                    "name": "Success Stories"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 87792,
+            "dimensions": [
+                1050,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FDGXA35"
+        },
+        {
+            "filename": "IMG-XNRVP6L.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-XNRVP6L-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 129717,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-XNRVP6L"
+        },
+        {
+            "filename": "IMG-QKAN3CT.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-QKAN3CT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109933,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKAN3CT"
+        },
+        {
+            "filename": "IMG-4MTSEYU-1.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-4MTSEYU-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 105740,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-4MTSEYU"
+        },
+        {
+            "filename": "IMG-LVAEHGW.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-LVAEHGW-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 111573,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LVAEHGW"
+        },
+        {
+            "filename": "IMG-295EDG5.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-295EDG5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109560,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-295EDG5"
+        },
+        {
+            "filename": "IMG-FMEP5XJ.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-FMEP5XJ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                },
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 118696,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FMEP5XJ"
+        },
+        {
+            "filename": "male-professional-cleaning-service-worker-is-domes-7FGJL69.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/12\/male-professional-cleaning-service-worker-is-domes-7FGJL69-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                }
+            ],
+            "filesize": 204561,
+            "dimensions": [
+                1121,
+                748
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7FGJL69"
+        },
+        {
+            "filename": "making-my-floors-sparkle-shot-of-a-bucket-of-clean-BJXA5WT.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/12\/making-my-floors-sparkle-shot-of-a-bucket-of-clean-BJXA5WT-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/program-detail.json",
+                    "name": "Program Detail"
+                }
+            ],
+            "filesize": 193884,
+            "dimensions": [
+                1403,
+                936
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BJXA5WT"
+        },
+        {
+            "filename": "IMG-FKSSZ7V.jpg",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/IMG-FKSSZ7V-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/programs-list.json",
+                    "name": "Programs List"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 112379,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FKSSZ7V"
+        },
+        {
+            "filename": "Soclean-indark.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/Soclean-indark.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 9051,
+            "dimensions": [
+                588,
+                120
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "bucket-1.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/bucket-1.png",
+            "templates": [
+                {
+                    "source": "templates\/design-guideline.json",
+                    "name": "Design Guideline"
+                }
+            ],
+            "filesize": 8338,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "edit-1.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/edit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/design-guideline.json",
+                    "name": "Design Guideline"
+                }
+            ],
+            "filesize": 10075,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "colorfilter-1.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/colorfilter-1.png",
+            "templates": [
+                {
+                    "source": "templates\/design-guideline.json",
+                    "name": "Design Guideline"
+                }
+            ],
+            "filesize": 12094,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "element-equal.png",
+            "thumbnail_url": "https:\/\/demo.deverust.com\/soclean\/wp-content\/uploads\/sites\/81\/2025\/11\/element-equal.png",
+            "templates": [
+                {
+                    "source": "templates\/design-guideline.json",
+                    "name": "Design Guideline"
+                }
+            ],
+            "filesize": 8875,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

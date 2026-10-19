@@ -1,0 +1,333 @@
+{
+    "version": "0.4",
+    "title": "Inspire Others Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "645600ac",
+            "settings": {
+                "flex_direction": "row",
+                "as_bs_lists": [],
+                "as_bs_lists_h": [],
+                "as_ts_lists": [],
+                "as_ts_lists_h": [],
+                "as_ds_lists": [],
+                "as_ds_lists_h": [],
+                "flex_wrap": "wrap",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "flex_align_items": "center"
+            },
+            "elements": [
+                {
+                    "id": "7fc1a44c",
+                    "settings": {
+                        "content_width": "full",
+                        "mf_input_label": "Full name",
+                        "mf_input_name": "mf-text",
+                        "mf_input_placeholder": "e. g. John Doe",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "mf_input_padding": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "mf_input_border_focus_border": "solid",
+                        "mf_input_border_focus_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "mf_input_border_radius": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "custom",
+                            "size": "calc(50% - 12px)",
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "mf_input_label_typography_typography": "globals\/typography?id=906ded2",
+                            "mf_input_typgraphy_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_place_holder_typography_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_border_focus_color": "globals\/colors?id=b41e63e",
+                            "mf_input_label_color": "globals\/colors?id=primary",
+                            "mf_input_color": "globals\/colors?id=text",
+                            "mf_input_placeholder_color": "globals\/colors?id=secondary",
+                            "mf_input_background_color": "globals\/colors?id=e052ba3",
+                            "mf_input_border_color": "globals\/colors?id=accent",
+                            "mf_input_color_focus": "globals\/colors?id=primary"
+                        },
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "solid",
+                        "mf_input_border_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-text",
+                    "elType": "widget"
+                },
+                {
+                    "id": "4196a44c",
+                    "settings": {
+                        "content_width": "full",
+                        "mf_input_label": "Job Title \/ Position",
+                        "mf_input_name": "mf-text",
+                        "mf_input_placeholder": "e. g. Cleaning Service",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "mf_input_padding": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "mf_input_border_focus_border": "solid",
+                        "mf_input_border_focus_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "mf_input_border_radius": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "custom",
+                            "size": "calc(50% - 12px)",
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "mf_input_label_typography_typography": "globals\/typography?id=906ded2",
+                            "mf_input_typgraphy_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_place_holder_typography_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_border_focus_color": "globals\/colors?id=b41e63e",
+                            "mf_input_label_color": "globals\/colors?id=primary",
+                            "mf_input_color": "globals\/colors?id=text",
+                            "mf_input_placeholder_color": "globals\/colors?id=secondary",
+                            "mf_input_background_color": "globals\/colors?id=e052ba3",
+                            "mf_input_border_color": "globals\/colors?id=accent",
+                            "mf_input_color_focus": "globals\/colors?id=primary"
+                        },
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "solid",
+                        "mf_input_border_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-text",
+                    "elType": "widget"
+                },
+                {
+                    "id": "96d0356",
+                    "settings": {
+                        "content_width": "full",
+                        "mf_input_label": "Your Success Story",
+                        "mf_input_name": "mf-textarea",
+                        "mf_input_placeholder": "Write your message or success story here",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "mf_input_padding": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "mf_input_border_focus_border": "solid",
+                        "mf_input_border_focus_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "mf_input_border_radius": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "_element_width": "inherit",
+                        "_element_custom_width": {
+                            "unit": "custom",
+                            "size": "calc(50% - 12px)",
+                            "sizes": []
+                        },
+                        "_element_custom_width_tablet": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "custom",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "__globals__": {
+                            "mf_input_label_typography_typography": "globals\/typography?id=906ded2",
+                            "mf_input_typgraphy_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_place_holder_typography_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_border_focus_color": "globals\/colors?id=b41e63e",
+                            "mf_input_label_color": "globals\/colors?id=primary",
+                            "mf_input_color": "globals\/colors?id=text",
+                            "mf_input_placeholder_color": "globals\/colors?id=secondary",
+                            "mf_input_background_color": "globals\/colors?id=e052ba3",
+                            "mf_input_border_color": "globals\/colors?id=accent",
+                            "mf_input_color_focus": "globals\/colors?id=primary"
+                        },
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "solid",
+                        "mf_input_border_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-textarea",
+                    "elType": "widget"
+                },
+                {
+                    "id": "227ba53e",
+                    "settings": {
+                        "content_width": "full",
+                        "mf_input_label_status": "",
+                        "mf_input_label": "Checkbox",
+                        "mf_input_name": "mf-checkbox",
+                        "mf_input_list": [
+                            {
+                                "mf_input_option_text": " I have read and accepted terms and privacy",
+                                "mf_input_option_value": "value-1",
+                                "_id": "3b0ea63"
+                            }
+                        ],
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "_element_width": "inherit",
+                        "as_bs_lists": [],
+                        "as_bs_lists_h": [],
+                        "as_ts_lists": [],
+                        "as_ts_lists_h": [],
+                        "as_ds_lists": [],
+                        "as_ds_lists_h": [],
+                        "__globals__": {
+                            "mf_input_typgraphy_text_typography": "globals\/typography?id=text",
+                            "mf_input_option_icon_color_checked": "globals\/colors?id=07414c8",
+                            "mf_input_option_color": "globals\/colors?id=primary",
+                            "mf_input_option_icon_color": "globals\/colors?id=a4d0a47"
+                        },
+                        "mf_input_option_icon_horizontal_position": {
+                            "unit": "px",
+                            "size": 1,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-checkbox",
+                    "elType": "widget"
+                },
+                {
+                    "id": "71095bbe",
+                    "settings": {
+                        "text": "Submit Story",
+                        "align_mobile": "justify",
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

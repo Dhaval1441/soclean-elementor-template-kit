@@ -1,0 +1,129 @@
+{
+    "version": "0.4",
+    "title": "Subscription Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "5a1b97cb",
+            "settings": {
+                "flex_direction": "row",
+                "flex_align_items": "center",
+                "flex_gap": {
+                    "column": "16",
+                    "row": "16",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 16
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "__globals__": {
+                    "background_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "a7de354",
+                    "settings": {
+                        "mf_input_label_status": "",
+                        "mf_input_label": "Email",
+                        "mf_input_name": "mf-email",
+                        "mf_input_placeholder": "e. g. hello@deverust.com",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "mf_input_padding": {
+                            "unit": "px",
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "isLinked": true
+                        },
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "solid",
+                        "mf_input_border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "mf_input_border_radius": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "_element_width": "inherit",
+                        "__globals__": {
+                            "mf_input_typgraphy_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_place_holder_typography_typography": "globals\/typography?id=c0452ef",
+                            "mf_input_placeholder_color": "globals\/colors?id=a4d0a47",
+                            "mf_input_color": "globals\/colors?id=primary",
+                            "mf_input_background_color": "globals\/colors?id=785b64d",
+                            "mf_input_border_color": "globals\/colors?id=d3ae19d",
+                            "mf_input_color_focus": "globals\/colors?id=primary",
+                            "mf_input_border_focus_color": "globals\/colors?id=8d9b57c"
+                        },
+                        "mf_input_border_focus_border": "solid",
+                        "mf_input_border_focus_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-email",
+                    "elType": "widget"
+                },
+                {
+                    "id": "234621ac",
+                    "settings": {
+                        "text": "Subscribe",
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "isLinked": true
+                        },
+                        "_flex_size": "grow",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=8d9b57c",
+                            "border_color": "globals\/colors?id=ec25634",
+                            "button_text_color": "globals\/colors?id=e052ba3",
+                            "typography_typography": "globals\/typography?id=accent",
+                            "button_background_hover_color": "globals\/colors?id=primary",
+                            "button_hover_border_color": "globals\/colors?id=primary"
+                        },
+                        "align_mobile": "justify",
+                        "_element_width_mobile": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

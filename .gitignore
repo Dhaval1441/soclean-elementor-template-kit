@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+wp-config.php
+wp-config-local.php
+*.sql
+*.sql.gz
+.env
+.env.*
+uploads/
+node_modules/
+vendor/
+.idea/
+.vscode/
+*.log
+local-config.php
+auth.json
